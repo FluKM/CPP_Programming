@@ -1,3 +1,4 @@
+//This is the basic Atm (display,deposit,withdraw) code.
 #include<iostream>
 using namespace std;
  int bal=1000;
