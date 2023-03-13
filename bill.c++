@@ -1,3 +1,4 @@
+//This program calculates a bill of one item and gives 5% discout to that item. :)
 #include <iostream>
 using namespace std;
 class hotel
