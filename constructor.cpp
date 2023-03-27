@@ -1,4 +1,4 @@
-//This program consists of default constructor/paramatrix constructor/copy constructor/constructor overloading
+//This program consists of default constructor&paramatrix constructor&copy constructor&constructor overloading
 #include<iostream>
 using namespace std;
 class complex
