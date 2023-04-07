@@ -1,3 +1,4 @@
+//Write a cpp program to copy values from one object to another.
 #include <iostream>
 using namespace std;
 
