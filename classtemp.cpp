@@ -1,3 +1,4 @@
+// write a simple class template code in C++ 
 #include<iostream>
 using namespace std;
 template<class T>
